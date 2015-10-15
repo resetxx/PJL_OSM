@@ -1,5 +1,5 @@
 # OpenStreetMap-based Geolocation Web Application
-+ [OpenStreetMap](https://en.wikipedia.org/wiki/OpenStreetMap) is an openly licensed map of the world.
+[OpenStreetMap](https://en.wikipedia.org/wiki/OpenStreetMap) is an openly licensed map of the world.
 
 ## Functionality
 + Extract GPS coordinates from XML files stored on server
