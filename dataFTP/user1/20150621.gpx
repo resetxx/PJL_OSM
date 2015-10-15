@@ -1,0 +1,47 @@
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" version="1.0" creator="GPSLogger - http://gpslogger.mendhak.com/" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2015-06-21T13:04:54Z</time>
+<trk>
+<trkseg>
+<trkpt lat="48.8001286" lon="2.1256605">
+<time>2015-06-21T13:04:54Z</time>
+<src>network</src>
+<sat>16</sat>
+</trkpt>
+<trkpt lat="48.8043358" lon="2.1247915">
+<time>2015-06-21T13:05:54Z</time>
+<src>network</src>
+<sat>25</sat>
+</trkpt>
+<trkpt lat="48.805374" lon="2.1241066">
+<time>2015-06-21T13:07:00Z</time>
+<src>network</src>
+<sat>20</sat>
+</trkpt>
+<trkpt lat="48.806242" lon="2.123801">
+<time>2015-06-21T13:08:00Z</time>
+<src>network</src>
+<sat>20</sat>
+</trkpt>
+<trkpt lat="48.807041" lon="2.123689">
+<time>2015-06-21T13:09:00Z</time>
+<src>network</src>
+<sat>20</sat>
+</trkpt>
+<trkpt lat="48.808137" lon="2.123302">
+<time>2015-06-21T13:10:00Z</time>
+<src>network</src>
+<sat>20</sat>
+</trkpt>
+<trkpt lat="48.8083219" lon="2.123114">
+<time>2015-06-21T13:11:00Z</time>
+<src>network</src>
+<sat>20</sat>
+</trkpt>
+<trkpt lat="48.8084234" lon="2.1228045">
+<time>2015-06-21T13:12:00Z</time>
+<src>network</src>
+<sat>20</sat>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

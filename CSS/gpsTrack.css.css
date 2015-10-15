@@ -1,0 +1,44 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+#content_left{
+	float:left;
+	width:20%;
+	margin:3px;
+}
+#info, #infoTime{
+	height: 16px;
+	font-size: 15px;
+	color: #0000ff;
+}
+.caption1{
+	background-image: url(../icon/marker1.png); 
+	background-repeat: no-repeat; 
+	width:95px; 
+	height:25px;
+	text-align: right;
+}
+.caption2{
+	background-image: url(../icon/marker.png); 
+	background-repeat: no-repeat; 
+	width:95px; 
+	height:25px;
+	text-align:right;
+}
+
+
+#content_right{
+	float:left;
+	width:75%;
+}
+#map, #chartdiv{
+	display:block;
+}
+#map{
+	height: 430px;
+}
+#chartdiv{
+	height:220px;
+}
