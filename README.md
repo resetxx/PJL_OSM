@@ -11,6 +11,6 @@
 + Javascript
 + jQuery
 + Ajax
-+ XML
++ XML/DOM
 + HTML/CSS
 + API OpenStreetMap
